@@ -17,12 +17,21 @@
 
 ## Built With
 
-- Javascript
+- JavaScript
 
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+To run the project smoothly, you must have the following installed on your machine:
 
-- Text Editor (VSCode is suggested.)
+- Git
+- A web browser.
+
+### Setup
+You need to clone the project by running `git clone https://github.com/umairarshadbutt/Codeshare-Example.git`
 
 ## Authors
 
