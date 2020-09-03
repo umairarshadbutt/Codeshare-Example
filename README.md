@@ -1,5 +1,5 @@
 
-<h3 align="center">Medium Scraper-Ruby</h3>
+<h3 align="center">CodeShare Task</h3>
 
 <div align="center">
 
