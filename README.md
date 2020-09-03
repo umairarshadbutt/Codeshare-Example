@@ -60,7 +60,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Project inspired by [Soliton Technologies](solitontechnologies.com)
+- Project inspired by [Soliton Technologies](https://www.solitontechnologies.com/)
 
 
 ## 📝 License
